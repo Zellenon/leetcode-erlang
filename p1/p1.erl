@@ -1,5 +1,5 @@
-% Solution passes all tests with 4ms runtime (meets or beats 85.53% of
-% competitors) and 65.41MB memory (meets or beats 5.26% of competitors)
+% Solution passes all tests with 2ms runtime (meets or beats 100.00% of
+% competitors) and 64.90MB memory (meets or beats 14.47% of competitors)
 
 -module(p1).
 
